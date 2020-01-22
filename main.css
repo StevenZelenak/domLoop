@@ -1,3 +1,16 @@
 body {
     background-color: aqua;
 }
+
+#dino-barn {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.dinosaur {
+    flex: 0 43%;
+    border: 2px solid black;
+    margin: 2px;
+    
+}
